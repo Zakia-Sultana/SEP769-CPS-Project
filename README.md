@@ -1,4 +1,4 @@
 # SEP769-CPS-Project
 SEP769 CPS Project code <br>
-Datset link: <br>
-Libraries requied:OS, <br>
+Dataset link: https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset <br>
+Libraries requied:OS, <br> Pandas, <br> Numpy, <br> Sklearn
